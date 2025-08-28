@@ -33,7 +33,7 @@ const projects: Project[] = [
     desc: "An e-commerce website for clothing shops with a minimalist design, elegant interface, and user-friendly experience.",
     img: "/static/projects/Ecommerce/ecom.png",
     github: "https://github.com/manhcuong2004/eCommerce",
-    link: "e-commerce-omega-lemon.vercel.app",
+    link: "https://e-commerce-omega-lemon.vercel.app",
     tags: ["React", "SCSS", "AntDesign"],
   },
 ];
