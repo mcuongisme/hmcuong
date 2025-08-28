@@ -29,8 +29,8 @@ function Navbar({ currentPage }) {
             <li
               key={index}
               className={`list-none text-white ${currentPage === item.title
-                  ? "opacity-100"
-                  : "opacity-40 hover:opacity-100 transition-opacity"
+                ? "opacity-100"
+                : "opacity-40 hover:opacity-100 transition-opacity"
                 }`}
             >
               <Link href={item.path}>{item.title}</Link>

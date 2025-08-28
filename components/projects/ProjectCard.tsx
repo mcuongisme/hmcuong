@@ -12,7 +12,7 @@ function ProjectCard({ project }) {
       <a
         href={project.link || project.github}
         target="_blank"
-        className={`w-full relative rounded-xl border-fun-gray border p-2 transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink will-change-projectCard`}
+        className={`w-full relative rounded-xl bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 border-fun-gray border p-3 transition hover:-translate-y-2 hover:opacity-75 hover:border-fun-pink will-change-projectCard`}
       >
         <img
           className="w-full rounded-md"

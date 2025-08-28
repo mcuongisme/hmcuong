@@ -53,13 +53,13 @@ function Footer() {
           <span className="ml-3 flex items-center space-x-4">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28" alt="React" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="42" className="invert" alt="NextJS" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="28" alt="TailwindCSS" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="28" alt="TailwindCSS" />
           </span>
         </p>
 
         <a
           className="inline-flex items-center text-sm font-bold border border-fun-pink px-5 py-2 rounded-xl text-fun-pink hover:bg-fun-pink hover:text-bg transition-colors"
-          href="https://github.com/manhcuong2004/"
+          href="https://github.com/manhcuong2004/hmcuong"
           target="_blank"
           rel="noreferrer"
         >
