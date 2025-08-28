@@ -16,6 +16,7 @@ const projects: Project[] = [
     desc: "An intelligent inventory management solution designed to track and control construction materials efficiently and accurately.",
     img: "/static/projects/StockB/StockB.png",
     github: "https://github.com/manhcuong2004/prj-stock-management",
+    link: "https://hmc28042004.pythonanywhere.com/",
     tags: ["HTML", "CSS", "Django", "SQLite", "AJAX"],
   },
   {
@@ -32,7 +33,7 @@ const projects: Project[] = [
     desc: "An e-commerce website for clothing shops with a minimalist design, elegant interface, and user-friendly experience.",
     img: "/static/projects/Ecommerce/ecom.png",
     github: "https://github.com/manhcuong2004/eCommerce",
-
+    link: "e-commerce-omega-lemon.vercel.app",
     tags: ["React", "SCSS", "AntDesign"],
   },
 ];
