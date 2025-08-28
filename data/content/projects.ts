@@ -22,7 +22,7 @@ const projects: Project[] = [
     id: 2,
     title: "Watching Movies Clone",
     desc: "A modern online movie streaming application inspired by leading platforms, offering a smooth and engaging experience.",
-    img: "/static/projects/react-emoji-search.png",
+    img: "/static/projects/Movie/movie.png",
     github: "https://github.com/manhcuong2004/watching-movies",
     tags: ["React", "Nodejs", "MongoDB"],
   },
