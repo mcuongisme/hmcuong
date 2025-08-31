@@ -9,11 +9,13 @@ function CTA() {
           Interested in Working Together?
         </h2>
         <a
-          href="mailto:huynhmc2804@gmail.com"
+          href="/static/misc/Huynh-Manh-Cuong-Fullstack.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
           className="cursor-pointer font-bold whitespace-nowrap 
         mt-6 px-8 py-3 text-white border-2 rounded-full border-white bg-bg hover:bg-fun-pink hover:border-fun-pink transition-colors"
         >
-          Get in Touch
+          Check my CV
         </a>
       </div>
 
