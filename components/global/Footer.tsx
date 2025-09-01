@@ -59,7 +59,7 @@ function Footer() {
 
         <a
           className="inline-flex items-center text-sm font-bold border border-fun-pink px-5 py-2 rounded-xl text-fun-pink hover:bg-fun-pink hover:text-bg transition-colors"
-          href="https://github.com/manhcuong2004/hmcuong"
+          href="https://github.com/mcuongisme/hmcuong"
           target="_blank"
           rel="noreferrer"
         >

@@ -15,6 +15,7 @@ function Page({ currentPage, meta: { title, desc }, children }: PageProps) {
       className="w-full m-auto flex flex-col items-center justify-center min-h-screen opening-box-animate-paddin text-white overflow-hidden md:overflow-visible"
       style={{ maxWidth: "1200px" }}
     >
+
       <Head>
         <title>{pageTitle}</title>
 
