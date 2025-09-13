@@ -25,9 +25,4 @@ export const designs: Design[] = [
     img: "/static/designs/fishing2.jpg",
     link: "https://dribbble.com/shots/11134809-Neon-Signatures",
   },
-  {
-    label: "iPhone Wallpapers",
-    img: "/static/designs/iphone-wallpapers.png",
-    link: "https://dribbble.com/shots/14077089-Free-iPhone-Wallpapers",
-  },
 ];
