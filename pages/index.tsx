@@ -5,6 +5,7 @@ import Page from "@/components/utility/Page";
 import Projects from "@/components/home/Projects";
 import Skills from "@/components/home/Skills";
 import Testimonials from "@/components/home/Testimonials";
+import Designs from "@/components/designs/Designs";
 // import { allPosts } from "contentlayer/generated";
 // import { GetStaticProps } from "next";
 
@@ -22,6 +23,7 @@ export default function Home() {
       <Hero />
       <div className="mt-20 space-y-32">
         <Projects />
+        <Designs />
         <Skills />
         {/* <Testimonials /> */}
         {/* <Posts allPosts={allPosts} /> */}
